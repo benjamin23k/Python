@@ -12,7 +12,7 @@ pygame.mixer.init()
 
 # ================= CONFIGURACIÓN =================
 
-NOMBRE_CANCION = r"C:\Users\wilson\Desktop\Programar\Full Stack\Lenguajes Programacion\Python\Archivos\Consume.mp3"
+NOMBRE_CANCION = r""
 
 
 SEGUNDO_INICIO = 0.0  # Desde el principio
@@ -168,4 +168,5 @@ if __name__ == "__main__":
     try:
         reproducir_con_letras(letras)
     except KeyboardInterrupt:
+
         pygame.mixer.music.stop()
