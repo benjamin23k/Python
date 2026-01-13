@@ -13,9 +13,9 @@ from telegram.ext import (
 )
 
 # 🚨 Configura tus tokens y APIs
-TELEGRAM_TOKEN = "8495110555:AAFNjCnvCZBQQbUJmcVr-GG4rPY6IFp-QXk"
-TMDB_API_KEY = "5fe9d8979f59ac1491bf662e320259b7"
-OMDB_API_KEY = "ba962c53"
+TELEGRAM_TOKEN = ""
+TMDB_API_KEY = ""
+OMDB_API_KEY = ""
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -245,3 +245,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
