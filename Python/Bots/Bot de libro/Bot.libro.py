@@ -10,8 +10,8 @@ from telegram.helpers import escape_markdown
 import re
 
 # ===== CONFIG =====
-TOKEN = "8341820198:AAHUjnzM7nekvYdQjr74mSnHfFMUAgRfrcM"
-GEMINI_API_KEY = "AIzaSyAG5rGKgFZ36DiVIa_e7OJ6Vp9h-IzzmjA"
+TOKEN = ""
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ===== BASE DE DATOS (solo usuarios, opcional) =====
@@ -227,3 +227,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
