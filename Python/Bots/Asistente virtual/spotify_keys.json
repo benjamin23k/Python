@@ -1,0 +1,5 @@
+{
+  "spoty_client_id": "ca9169f960ad4e0cb3d287c420ea2ab6",
+  "spoty_client_secret": "ca273529fe784ccfa8c656827dd06867",
+  "redirect_uri": "http://127.0.0.1:8888/callback"
+}

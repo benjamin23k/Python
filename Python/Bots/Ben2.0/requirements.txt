@@ -1,0 +1,15 @@
+speechrecognition
+pyttsx3
+pywhatkit
+pygame
+pyautogui
+sounddevice
+soundfile
+numpy
+torch
+transformers
+diffusers
+resemblyzer
+openai-whisper
+pillow
+
