@@ -33,13 +33,6 @@
 
 ---
 
-## 📸 Demo Visual
-> [!TIP]
-> Puedes insertar un GIF aquí mostrando cómo funciona tu script. 
-> ¡Una imagen vale más que mil líneas de código!
-
-![Demo del Proyecto](https://via.placeholder.com/800x400.png?text=Inserta+un+GIF+o+Imagen+aquí)
-
 ---
 
 ## 🛠️ Stack Tecnológico
