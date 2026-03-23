@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # ================== CONFIG ==================
-TOKEN = ""  # ⚠️ Cambia este token, el anterior quedó público
+TOKEN = ""  
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "emails.json")
 API_BASE = "https://api.mail.tm"
