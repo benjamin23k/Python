@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # ================== CONFIG ==================
-TOKEN = "7847516394:AAEy-AtqfWURynEI76PtwqN0-ByrKPdfo3g"
+TOKEN = ""
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "emails.json")
 API_BASE = "https://api.mail.tm"
